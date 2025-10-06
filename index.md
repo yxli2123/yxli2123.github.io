@@ -4,19 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Welcome to my webpage! I’m Yixiao(yee shiaw) Li, a 4th-year Ph.D student in [Machine Learning Ph.D. Program](https://ml.gatech.edu/phd) at [Georgia Institute of Technology](https://www.gatech.edu). I’m interested in large language models (LLMs). I am so fortunate to work with Assistant Professor [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) in FLASH (Foundations of LeArning Systems for alcHemy) research group. I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China (USTC).
 
 {% include_relative _includes/publications.md %}
 
