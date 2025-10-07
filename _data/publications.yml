@@ -6,7 +6,6 @@ main:
     conference: International Conference on Learning Representations (ICLR) <strong>(ICLR)</strong>, 2024
     pdf: https://arxiv.org/abs/2310.08659
     code: https://github.com/yxli2123/LoftQ
-    image: ./assets/img/poster_iclr2024_loftq.pdf
     notes: Oral Presentation
 
   - title: "LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximatione"
@@ -16,3 +15,23 @@ main:
     pdf: https://arxiv.org/abs/2306.11222
     code: https://github.com/yxli2123/LoSparse
 
+  - title: "Deep Reinforcement Learning from Weak Hierarchical Preference Feedback"
+    authors: Alexander Bukharin, <strong>Yixiao Li</strong>, Pengcheng He, Weizhu Chen and Tuo Zhao
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2309.02632v2
+    code: https://github.com/abukharin3/HERON
+    
+  - title: "NoWag: A Unified Framework for Shape Preserving Com- pression of Large Language Models"
+    authors: Lawrence Ray Liu, Inesh Chakrabarti, <strong>Yixiao Li</strong>, Mengdi Wang, Tuo Zhao, Lin Yang
+    conference_short: COLM
+    conference: Conference on Language Modeling (COLM), 2025
+    pdf: https://arxiv.org/pdf/2504.14569
+    code: https://github.com/LawrenceRLiu/NoWag
+
+  - title: "Adaptive Preference Scaling for Reinforcement Learning with Human Feedback"
+    authors: Ilgee Hong, Zichong Li, Alexander Bukharin, <strong>Yixiao Li</strong>, Haoming Jiang, Tianbao Yang, Tuo Zhao
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/c1f66abb52467443ba8fc70e0a32e061-Paper-Conference.pdf
+    code: https://github.com/IlgeeHong/Adaptive-Preference-Scaling
